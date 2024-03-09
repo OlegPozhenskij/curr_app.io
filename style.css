@@ -17,8 +17,7 @@ main {
 
 .dropdown {
   display: inline-block; /* Делаем секции inline-block, чтобы они располагались горизонтально */
-  margin-right: 50px; /* Промежуток между выпадающими списками */
-  margin-left: 50px;
+  margin-right: 100px; /* Промежуток между выпадающими списками */
 }
 
 #container {
